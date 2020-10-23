@@ -1,0 +1,6 @@
+github.com
+api.github.com
+github.githubassets.com
+github.global.ssl.fastly.net
+avatars1.githubusercontent.com
+avatars2.githubusercontent.com
