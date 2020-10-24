@@ -7,3 +7,4 @@ avatars1.githubusercontent.com
 avatars2.githubusercontent.com
 camo.githubusercontent.com
 github-production-release-asset-2e65be.s3.amazonaws.com
+raw.githubusercontent.com

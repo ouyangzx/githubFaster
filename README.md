@@ -12,4 +12,8 @@ hosts.txt 和执行文件exe(win)在同一目录
 
 >打包
 
-pyinstaller -F start.py -p C:\Users\Administrator\IdeaProjects\githubFaster\venv\Lib\site-packages
+pyinstaller -F start.py -p venv\Lib\site-packages
+
+
+>开发计划
+
