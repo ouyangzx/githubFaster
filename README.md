@@ -6,7 +6,7 @@
 
 >使用
 
-hosts.txt 和执行文件exe(win)在同一目录
+下载hosts.txt 和执行文件githubFaster.exe(win)在同一目录,运行./githubFaster.exe
 ![](doc/img2.png)
 ![](doc/img1.png)
 
