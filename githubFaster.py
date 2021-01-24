@@ -3,8 +3,8 @@ from concurrent.futures._base import as_completed
 from concurrent.futures.thread import ThreadPoolExecutor
 from multiprocessing import cpu_count
 
-import requests
 from bs4 import BeautifulSoup
+from pip._vendor import requests
 
 
 def parse_url(host):
