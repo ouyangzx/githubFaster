@@ -76,3 +76,4 @@ with open(r"hosts.txt") as f:
     hosts = f.readlines()
 
     find(hosts)
+    print()
